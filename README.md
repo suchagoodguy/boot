@@ -30,7 +30,7 @@
 ![vgrename3.png](vgrename3.png)
 ![vgrename4.png](vgrename4.png)
 
-+ Пересоздаем initrd image, чтобý он знал новое название Volume Group.
++ Пересоздаем initrd image, чтобы он знал новое название Volume Group.
 ![vgrename5.png](vgrename5.png)
 
 + После чего можем перезагружаться и, если всё сделано правильно, то успешно грузимся с новым именем Volume Group и проверяем:
