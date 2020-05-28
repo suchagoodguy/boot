@@ -25,7 +25,7 @@
 + Посмотрим текущее состояние системы и переименуем centos в OtusRoot:
 ![vgrename1.png](vgrename1.png)
 
-+ Далее правим /etc/fstab, /etc/default/grub, /boot/grub2/grub.cfg. Везде заменāем старое название на новое.
++ Далее правим /etc/fstab, /etc/default/grub, /boot/grub2/grub.cfg. Везде заменяем старое название на новое.
 ![vgrename2.png](vgrename2.png)
 ![vgrename3.png](vgrename3.png)
 ![vgrename4.png](vgrename4.png)
