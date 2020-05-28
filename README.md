@@ -14,7 +14,7 @@
 ![rdbreak1.png](rdbreak1.png)
 ![rdbreak2.png](rdbreak2.png)
 
-###Способ 3. rw init=/sysroot/bin/sh
+### Способ 3. rw init=/sysroot/bin/sh
 
 + В строке начинающейся с linux16 заменяем ro на rw init=/sysroot/bin/sh и нажимаем сtrl-x для загрузки в систему.
 ![sysrootbinsh1.png](sysrootbinsh1.png)
